@@ -1,0 +1,9 @@
+savegame = "C:/Users/<username>/Documents/Egosoft/X4/<id>/save/save_008.xml"
+exclude = ["CJU-133","SBH-279","YSU-034","GLU-716","XYN-441","KMX-925"]
+
+[combine]
+SVF-965 = ["REF-314","IIB-734"]
+SZS-033 = ["HIL-927","DXJ-278","LTN-250"]
+
+[parser]
+shipindex = 0
