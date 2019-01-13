@@ -21,3 +21,5 @@ shipindex = 0
 | exclude   	| list of ship id's that will be ignored                                                                                    	|
 | combine   	| mapping to combine ship id's, eg. station , build storage and station trader                                                  |
 | shipindex 	| tells the parser on what position the current ship id can be found. 0 = first ship id in text, 1 = second, 2 = third, etc 	|
+
+![screenshot](https://raw.githubusercontent.com/hazeglide/egoxml/master/screenshot.png)
